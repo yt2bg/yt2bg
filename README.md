@@ -8,3 +8,5 @@
 - 📫 How to reach me: ...  yt2bg@yonsei.ac.kr
 - 😄 Pronouns: ... AH-64
 - ⚡ Fun fact: ... I studied theology
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yt2bg)](https://solved.ac/yt2bg/)
